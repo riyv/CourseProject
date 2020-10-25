@@ -6,6 +6,7 @@ What is your free topic? Please give a detailed description. What is the task? W
 
 Which programming language do you plan to use?
 - Python, Java, Javascript
+
 Please justify that the workload of your topic is at least 20*N hours, N being the total number of students in your team. You may list the main tasks to be completed, and the estimated time cost for each task.
 Main Tasks:
 - Scrape 100 tweets from daily trending hashtags (10 hours)
